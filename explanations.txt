@@ -1,0 +1,21 @@
+ERROR EXPLANATIONS
+
+1. vowels.py
+Error: Counts consonants instead of vowels.
+Fix: Change 'not in vowels' to 'in vowels'.
+
+2. max.py
+Error: Finds minimum instead of maximum.
+Fix: Change < to > in comparison.
+
+3. vowels.js
+Error: Counts consonants instead of vowels.
+Fix: Remove ! negation from vowels.includes(char).
+
+4. max.js
+Error: Finds minimum instead of maximum.
+Fix: Change < to > in comparison.
+
+5. factorial.js
+Error: Factorial is always 0.
+Fix: Change factorial = 0 to factorial = 1.
